@@ -1,8 +1,34 @@
-# React + Vite
+# GDG RBU
+ This Project involves responsive website for the Google Developer Groups (GDG) at RBU. Utilizing React with Vite and Tailwind CSS, the website aims to provide essential information, resources, and community engagement for GDG members and enthusiasts. The site is designed to be accessible across various devices, including mobile, tablet, and desktop, while adhering to best web development practices such as semantic HTML and optimized assets.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Installation:
+  Clone the repository:
+    git clone https://github.com/yourusername/repo-name.git
+    cd repo-name
+Install dependencies:
+  npm install
 
-Currently, two official plugins are available:
+Start the development server:
+    npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+  1)Fully responsive layout with Tailwind CSS.
+ 2)Dynamic components for mission, perspective, and technology sections.
+ 3)Interactive FAQ section.
+ 4)Optimized assets for better performance.
+ 5)Light and dark mode support.
+
+# Responsive Design
+The website is designed to adapt to different screen sizes and orientations:
+  Mobile: Uses a single-column layout for easy navigation.
+  Tablet: Adjusts padding and margins to create a balanced look.
+  Desktop: Implements multi-column layouts to utilize available screen space efficiently.
+
+
+# Contributing
+  Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
+  1)Fork the project
+  2)Create your feature branch (git checkout -b feature/AmazingFeature)
+  3)Commit your changes (git commit -m 'Add some AmazingFeature')
+  4)Push to the branch (git push origin feature/AmazingFeature)
+  5)Open a pull request
