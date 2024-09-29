@@ -137,7 +137,7 @@ function Footer({ toggle }) {
                     />
                   </svg>
                 </div>
-                 <a href="mailto:someone@somewhere.com" className="pl-5  max-sm:pl-2 underline max-sm:text-xs  cursor-pointer">
+                 <a href="mailto:gdsc@rknec.edu" className="pl-5  max-sm:pl-2 underline max-sm:text-xs  cursor-pointer">
                   dsc.rknec@gmail.com
                 </a>
               </div>
