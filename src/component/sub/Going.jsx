@@ -1,5 +1,5 @@
 import React from "react";
-import going from "../../assets/Going.png"
+// import going from "../../assets/Going.png"
 function Going() {
   return (
     <section className="text-center py-8 px-10 max-sm:px-0">
