@@ -16,11 +16,11 @@ function TopPart() {
             <p>technologies.</p>
           </h1>
 
-          <h1 className="flex justify-center items-center py-10">
+           <a href="https://rcoem-gdsc.netlify.app/" className="flex justify-center items-center py-10">
             <button className="bg-[#3686F7] text-white px-5 py-2 text-md font-bold flex justify-center items-center rounded hover:border hover:border-blue-600 hover:bg-transparent hover:text-blue-500 ">
               JOIN US
             </button>
-          </h1>
+          </a>
           <div className=" flex justify-center">
             <div className=" ">
               <img src="https://res.cloudinary.com/metube128/image/upload/v1727591366/GDG/njkgwzolluiv4zpl5qqm.png" className="w-8 max-sm:w-6"></img>
