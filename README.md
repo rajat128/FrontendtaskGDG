@@ -12,17 +12,17 @@ Start the development server:
     npm run dev
 
 # Features
-  1)Fully responsive layout with Tailwind CSS.
- 2)Dynamic components for mission, perspective, and technology sections.
- 3)Interactive FAQ section.
- 4)Optimized assets for better performance.
- 5)Light and dark mode support.
+  1)Fully responsive layout with Tailwind CSS. \n
+ 2)Dynamic components for mission, perspective, and technology sections. \n
+ 3)Interactive FAQ section. \n
+ 4)Optimized assets for better performance. \n
+ 5)Light and dark mode support. \n
 
 # Responsive Design
-The website is designed to adapt to different screen sizes and orientations:
-  Mobile: Uses a single-column layout for easy navigation.
-  Tablet: Adjusts padding and margins to create a balanced look.
-  Desktop: Implements multi-column layouts to utilize available screen space efficiently.
+The website is designed to adapt to different screen sizes and orientations: \n
+  Mobile: Uses a single-column layout for easy navigation. \n
+  Tablet: Adjusts padding and margins to create a balanced look. \n
+  Desktop: Implements multi-column layouts to utilize available screen space efficiently. \n
 
 
 # Contributing
