@@ -14,7 +14,7 @@ function Nav({ toggle, setToggle }) {
               // src="src\assets\Gdglogopng.png"
               className="h-16 w-16 dark:bg-black  "
             ></img>:<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAitwkipNuQV_70oVUaTqxjhF2of53nCmSg&s" className="w-16 h-16"></img>}
-            <h1 className="flex justify-center items-center cursor-default" id="nav1">GDG RCOEM</h1>
+            <h1 className="flex justify-center items-center cursor-default" id="nav1">GDG RBU</h1>
           </a>
           <div className="flex justify-center items-center text-[#8b8b8b] dark:text-white ">
           <div class="group text-[#5f5f5f] px-2 dark:text-white  transition duration-300 font-medium cursor-default">
