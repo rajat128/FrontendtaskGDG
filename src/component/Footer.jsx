@@ -6,7 +6,7 @@ function Footer({ toggle }) {
     <>
       <div className="h-full w-full bg-[#f1f3f4] dark:bg-black text-black dark:text-white pt-10 sm:px-16  max-sm:py-5">
         <div className="flex    md:pl-48 " id="footer">
-          <div className="flex flex-col px-2 max-lg:justify-center     ">
+          <div className="flex flex-col px-2 max-lg:justify-center  max-md:pr-0 max-md:justify-center  justify-center    ">
             <div className="flex justify-center">
               {!toggle ? (
                 <img
@@ -33,7 +33,7 @@ function Footer({ toggle }) {
               </h1>
             </h1>
           </div>
-          <h1 className=" flex  max-md:pl-5 max-md:pr-5 md:pl-18 md:pr-20 xl:pl-40 xl:pr-40 " id="footh1">
+          <h1 className=" flex  max-md:pl-5 max-md:pr-5 md:pl-20 md:pr-20 xl:pl-40 xl:pr-40 " id="footh1">
             <h1 className=" bg-black dark:bg-white  w-[2px]"></h1>
           </h1>
           <div className="flex flex-col  max-sm:justify-center " id="footdiv12">
