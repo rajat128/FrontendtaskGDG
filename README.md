@@ -3,7 +3,7 @@
 
 # Installation:<br/>
   Clone the repository:<br/>
-    git clone https://github.com/yourusername/repo-name.git <br/>
+    git clone https://github.com/rajat128/FrontendtaskGDG.git <br/>
     cd repo-name<br/>
 Install dependencies: <br/>
   npm install <br/>
