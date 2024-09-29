@@ -1,0 +1,11 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="9.99325" cy="10.0243" rx="4.24297" ry="4.29854" fill="#FCB912"/>
+<rect x="9.35191" width="1.0391" height="4.56172" rx="0.509254" fill="#FCB912"/>
+<rect x="9.35191" y="15.4382" width="1.0391" height="4.56172" rx="0.509254" fill="#FCB912"/>
+<rect x="14.8933" y="10.5272" width="1.0527" height="4.50275" rx="0.515924" transform="rotate(-90 14.8933 10.5272)" fill="#FCB912"/>
+<rect width="1.0252" height="4.44253" rx="0.5126" transform="matrix(-0.716691 -0.726077 0.716691 -0.726077 14.6215 6.51232)" fill="#FCB912"/>
+<rect width="1.0252" height="4.44253" rx="0.5126" transform="matrix(-0.716691 -0.726077 0.71669 -0.726077 3.24421 17.8702)" fill="#FCB912"/>
+<rect width="1.0252" height="4.44253" rx="0.5126" transform="matrix(-0.716691 0.726077 -0.716691 -0.726077 6.09388 5.76933)" fill="#FCB912"/>
+<rect width="1.0252" height="4.44253" rx="0.5126" transform="matrix(-0.716691 0.726077 -0.716691 -0.726077 16.6345 17.1272)" fill="#FCB912"/>
+<rect y="10.5272" width="1.0527" height="4.50275" rx="0.515924" transform="rotate(-90 0 10.5272)" fill="#FCB912"/>
+</svg>

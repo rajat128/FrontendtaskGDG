@@ -1,0 +1,35 @@
+
+@media screen and (min-width: 770px) and (max-width: 840px) {
+  #footer{
+    padding-left:0px;
+  }
+  #footh1{
+    padding-right:20px;
+    
+  }
+}
+@media screen and (min-width: 841px) and (max-width: 1080px) {
+  #footer{
+    padding-left: 20px;
+  }
+}
+@media screen and (min-width: 0px) and (max-width: 360px) {
+ 
+  #footh1{
+    display: block;
+  }
+  #footdiv12{
+   display: none;
+  }
+  #nav1{
+    display: none;
+  }
+   
+}
+@media screen and (min-width: 0px) and (max-width: 440px) {
+ 
+ #main{
+  font-size: xx-small;
+ }
+   
+}
