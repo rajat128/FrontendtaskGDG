@@ -42,7 +42,7 @@ function Nav({ toggle, setToggle }) {
           
          <label for="check" className={`${!toggle?"bg-[#7a7a7a]":"bg-white"} relative w-16 h-8 border-2 rounded-full cursor-pointer max-sm:w-14 max-sm:h-6 `}>
                 <input type="checkbox" id="check" class="sr-only peer"  ></input>
-                <span className={`w-[20px] h-[20px] bg-transparent absolute rounded-full left-1 top-1 flex justify-center ${!toggle?"left-1":"left-9"}  peer-checked:bg-transparent  transition-all duration-500 `} >
+                <span className={`w-[20px] h-[20px]  max-sm:w-[14px] max-sm:h-[15px] bg-transparent absolute rounded-full left-1 top-1 flex justify-center ${!toggle?"left-1":"left-9"}  peer-checked:bg-transparent  transition-all duration-500 `} >
                    <span>
                    <span >
                     {
