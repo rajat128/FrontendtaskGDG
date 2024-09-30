@@ -1,12 +1,12 @@
 import React from "react";
-
+import "./Nav.css"
 function Card({ colour, name, image }) {
   console.log(colour);
 
   return (
     <>
       <div className=" ">
-        <div class=" h-full relative flex flex-col px-4 pt-24 pb-12 font-sans text-gray-700  sm:px-6 lg:px-8 justify-center items-center ">
+        <div class=" h-full relative flex flex-col px-4 pt-24 pb-12 font-sans text-gray-700  sm:px-6 lg:px-8 justify-center items-center " id="cardmain">
           <div class="flex-1  justify-center items-center w-full ">
             <div class="group text-[#5f5f5f] text-3xl  transition duration-300 font-medium w-full ">
               
