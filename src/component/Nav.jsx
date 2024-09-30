@@ -6,7 +6,7 @@ function Nav({ toggle, setToggle }) {
  
   return (
     <>
-      <div className="w-screen">
+      <nav className="w-screen">
         <div className="flex justify-between shadow-md shadow-gray-400 bg-[#f1f3f4] dark:bg-black dark:text-white  max-sm:text-[12px] w-full      " id="main">
           <a href="https://rcoem-gdsc.netlify.app/" className="flex text-[#8b8b8b] dark:text-white " id="nav1">
            { !toggle?<img
@@ -62,7 +62,7 @@ function Nav({ toggle, setToggle }) {
           </div>
           </div>
         </div>
-      </div>
+      </nav>
     </>
   );
 }
