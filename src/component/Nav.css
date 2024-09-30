@@ -33,3 +33,30 @@
  }
    
 }
+@media screen and (min-width: 0px) and (max-width: 270px) {
+ 
+  
+    #faqmain{
+     /* padding: 0;
+     width: 5;
+     font-size: xx-small;
+     text-align: center;
+     margin: 0; */
+     max-width: 220px;
+     align-items: center;
+    }
+    #faq{
+     width: 10;
+     height: 10;
+    }
+    #cardmain{
+    padding-left: 0px;
+    padding-right: 1px;
+    }
+   #cardsvg{
+    width: 40px;
+   }
+   #cardtext{
+    font-size: 1.3vh;
+   }
+ }
