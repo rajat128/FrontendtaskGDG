@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Footer({ toggle }) {
   return (
     <>
-      <div className="h-full w-full bg-[#f1f3f4] dark:bg-black text-black dark:text-white pt-10 sm:px-16  max-sm:py-5">
+      <footer className="h-full w-full bg-[#f1f3f4] dark:bg-black text-black dark:text-white pt-10 sm:px-16  max-sm:py-5">
         <div className="flex    md:pl-48 " id="footer">
           <div className="flex flex-col px-2 max-lg:justify-center  max-md:pr-0 max-md:justify-center  justify-center    ">
             <div className="flex justify-center">
@@ -273,7 +273,7 @@ function Footer({ toggle }) {
           
         </div>
         
-      </div>
+      </footer>
       <div className="w-full flex ">
           <img src="https://res.cloudinary.com/metube128/image/upload/v1727591360/GDG/rsyamtnlwysos1ejxdmo.png" className="w-full bg-[#f1f3f4] dark:bg-black h-20 max-sm:h-16 max-xl:h-24 "></img>
            <img src="https://res.cloudinary.com/metube128/image/upload/v1727591360/GDG/rsyamtnlwysos1ejxdmo.png" className="w-full bg-[#f1f3f4] dark:bg-black h-20 max-sm:h-16 max-2xl:visible "></img>
