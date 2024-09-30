@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-
+import '../Nav.css'
 function FAQsub({ que, ans, colour, colour2 }) {
   console.log(colour2);
   const [toggle, settoogle] = useState(false);
   return (
-    <div className="flex flex-col items-start px-5 py-1 justify-center ml-5 ">
-      <div className="flex items-center mb-4 border-8 dark:border-4 rounded-full p-2 px-5 w-[420px] max-sm:w-[380px] flex justify-start sm:w-[640px]">
+    <div className="flex flex-col items-start px-5 py-1 justify-center ml-5 "  id="faqmain">
+      <div className="flex items-center mb-4 border-8 dark:border-4 rounded-full p-2 px-5 w-[420px] max-sm:w-[380px] flex justify-start sm:w-[640px]"  id="faqmain">
         <div onClick={() => settoogle(!toggle)} className="mr-2 cursor-pointer">
           <svg
             width="20"
