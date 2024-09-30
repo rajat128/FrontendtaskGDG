@@ -3,7 +3,7 @@ import React from "react";
 function Heading() {
   return (
     <>
-      <div id="heading" className="flex justify-center pt-10 ">
+      <header id="heading" className="flex justify-center pt-10 ">
         <div>
           <h1 className="text-4xl font-bold max-sm:text-3xl dark:text-white">
             <span style={{ color: "#4285F4" }}>G</span>
@@ -18,7 +18,7 @@ function Heading() {
             RBU Chapter
           </h1>
         </div>
-      </div>
+      </header>
     </>
   );
 }
