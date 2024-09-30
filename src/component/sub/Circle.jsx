@@ -1,11 +1,11 @@
 import React from 'react'
-
+import "../Nav.css"
 function Circle({number,name,width,heigth}) {
   return (
     <>
     <div className='w-full'>
       <div className='sm:hidden'>
-        <svg width={90} height={80} viewBox="0 0 218 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width={90} height={80} viewBox="0 0 218 218" fill="none" xmlns="http://www.w3.org/2000/svg" id="cardsvg">
           <g filter="url(#filter0_d_23_173)">
             <path d="M109 0V210C51.0025 210 4 162.997 4 105C4 47.0026 51.0025 0 109 0Z" fill="#EA4435"/>
             <path d="M214 105C214 162.997 166.997 210 109 210V0C166.997 0 214 47.0026 214 105Z" fill="#547DBF"/>
@@ -30,7 +30,7 @@ function Circle({number,name,width,heigth}) {
           </defs>
         </svg>
     
-        <h1 className='flex justify-center py-2  font-medium text-xl max-sm:text-sm '>{name}</h1>
+        <h1 className='flex justify-center py-2  font-medium text-xl max-sm:text-sm ' id='cardtext'>{name}</h1>
       </div>
       <div className='max-sm:hidden'>
         <svg width={width} height={heigth} viewBox="0 0 218 218" fill="none" xmlns="http://www.w3.org/2000/svg">
